@@ -8,7 +8,7 @@
 <style>
 	input {
 		font-size: 1.2rem;
-		padding: var(--spacing-l);
+		padding: var(--spacing-m);
 		margin: 0 0 var(--spacing-m);
 		border-radius: var(--border-radius-m);
 		border: var(--border-style) var(--color-primary-light);
