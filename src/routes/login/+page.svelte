@@ -36,7 +36,7 @@
 	In order to search for artists on Spotify you need a valid token. Click on the button to get a
 	fresh, valid token. And continue searching for artists.
 </p>
-<Button onClick={requestNewToken}>New token</Button>
+<Button on:click={requestNewToken}>New token</Button>
 {#if error}
 	<ErrorComponent message={error} />
 {/if}
