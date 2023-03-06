@@ -56,10 +56,12 @@
 {/if}
 
 <style>
+	.results {
+		column-gap: 30px;
+	}
 	@media screen and (min-width: 45rem) {
 		.results {
 			column-count: 2;
-			column-gap: 10px;
 		}
 	}
 
