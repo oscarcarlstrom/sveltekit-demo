@@ -113,6 +113,10 @@
 		{
 			href: '/login',
 			text: 'Login'
+		},
+		{
+			href: '/about',
+			text: 'About'
 		}
 	]}
 >
